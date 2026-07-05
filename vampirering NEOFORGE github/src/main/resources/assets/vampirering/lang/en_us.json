@@ -1,0 +1,13 @@
+{
+  "itemGroup.vampirering": "Example Mod Tab",
+  "block.vampirering.example_block": "Example Block",
+  "item.vampirering.example_item": "Example Item",
+  "item.vampirering.vampire_ring": "Vampire Ring",
+  "vampirering.configuration.title": "Vampire Ring Configs",
+  "vampirering.configuration.section.vampirering.common.toml": "Vampire Ring Configs",
+  "vampirering.configuration.section.vampirering.common.toml.title": "Vampire Ring Configs",
+  "vampirering.configuration.items": "Item List",
+  "vampirering.configuration.logDirtBlock": "Log Dirt Block",
+  "vampirering.configuration.magicNumberIntroduction": "Magic Number Text",
+  "vampirering.configuration.magicNumber": "Magic Number"
+}
